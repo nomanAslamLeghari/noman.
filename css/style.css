@@ -141,6 +141,8 @@ ul li {
 .mh-about{
     padding-top:15%;
     padding-bottom:15%;
+    background:black;
+    color:red;
 }
 .mh-about .mh-about-inner {
     padding-left: 50px; }
